@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.header{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.marketplace {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.offline {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer #socmed {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}

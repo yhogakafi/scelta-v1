@@ -1,5 +1,10 @@
 body {
     background-color: black;
+    color: none;
+}
+
+a {
+    color: inherit;
 }
 
 .header{
@@ -13,15 +18,25 @@ body {
     width: 150px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 50px;
+}
+
+.container .marketplace img {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.container .marketplace img:hover {
+    opacity: .5;
 }
 
 .offline {
     width: 200px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .footer {
@@ -31,10 +46,21 @@ body {
 }
 
 .socmed img {
-    display: inline-block;
+    margin: 5px;
     width: 50px;
 }
 
 .socmed{
     text-align: center;
+    margin-top: 10px;
+}
+
+.container .socmed img {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.container .socmed img:hover {
+    opacity: .5;
 }

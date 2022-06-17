@@ -1,10 +1,5 @@
 body {
     background-color: black;
-    color: none;
-}
-
-a {
-    color: inherit;
 }
 
 .header{
@@ -63,4 +58,10 @@ a {
 
 .container .socmed img:hover {
     opacity: .5;
+}
+
+.container .socmed a {
+    text-decoration: none;
+    outline: none;
+    border: 0px none transparent;
 }

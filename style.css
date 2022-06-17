@@ -30,13 +30,8 @@ body {
     margin-right: auto;
 }
 
-.socmed {
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-}
-
 .socmed img {
     display: inline-block;
+    width: 50px;
+    margin: 0 auto;
 }

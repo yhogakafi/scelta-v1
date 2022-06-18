@@ -1,0 +1,73 @@
+MALL (STORE)
+MEGA BEKASI HYPERMALL : Jl. Jend. A. Yani No. 1, Margajaya, Bekasi Selatan, Kota Bekasi 17141 (LT UG G 08)
+TANGERANG CITY 1 : Jl. Jend Sudirman No. 1 Cikokol Tangerang (LT UG A 101 S)
+SGC CIKARANG 2 : Jl. Re Martadinata  Cikarang Kota Bekasi 17530 (BLOK GF GROUND BIRU NO C 58 - C 59)
+SGC CIKARANG 3 : Jl. Re Martadinata  Cikarang Kota Bekasi 17530 (LG GF NO 96-97 ZONA BIRU)
+ITC CEMPAKA MAS 2 : Jl. Letjen Suprapto Kav 1, Jakarta 10640 (LT DASAR BLOK C NO 225)
+ITC CEMPAKA MAS 3 : Jl. Letjen Suprapto Kav 1, Jakarta 10640 (LT DASAR BLOK L NO 1078-1079)
+ITC CEMPAKA MAS 4 : Jl. Letjen Suprapto Kav 1, Jakarta 10640 (LT DASAR BLOK F NO 458)
+
+MALL (BAZAAR)
+PLAZA BINTARO : Jl. Bintaro Utama I No.5, RT.6/RW.6, Bintaro, Kec. Pesanggrahan, Kota Jakarta Selatan, 12330 (B3, B4)
+KOJA  : Jl. Bhayangkara, RT.2/RW.17, Tugu Utara, Kec. Koja, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta (Lantai UG Blok K5 No. 1.2.3)
+PERMATA HIJAU : Jl. Arteri Permata Hijau No.11, RT.11/RW.10, Grogol Utara, Kec. Kby. Lama, Kota Jakarta Selatan (Lantai 1 / Hall Barat)
+
+
+
+
+
+
+JABODETABEK & BANTEN
+GPD MALABAR : Jl. Karet Raya No.31 Blok 21 Perumnas 1, Karawaci, Kota Tangerang
+GPD DEPOK : Jl. Sentosa Raya No.50-B, Sukmajaya, Kota Depok
+GPD PAMULANG : Jl. Surya Kencana No.7, Pamulang, tanggerang selatan, Banten
+GPD BEKASI : Jl. Kenanga Blok C 14, Kel. Kaliabang Tengah, Kec. Bekasi Utara
+GPD METLAND : Jl. Metland Transyogi PTM 2 No.9 Cileungsi Bogor
+GPD BALARAJA : Jl. Raya Serang km.24, No 88 talagasari, Kec balaraja tangerang,  banten
+GPD PORIS : Komplek Poris Indah Blok A 09D/29 Poris Gaga, Batu Ceper,Kota Tangerang
+GPD BINONG : Jl. Raya Binong Kec curug Kab. Tangerang
+GPD SERANG : Jl. KH Abdul Latif Sumurpecung Kec. Serang, Banten
+GPD KRAGILAN : Jl. Raya Serang - Jakarta, Kragilan, Kec Kragilan, Banten KM 14
+GPD MANGUN JAYA : Jl. Raya Mangun Jaya No.111 Rt 004 / Rw 002 Kel.Mangun Jaya, Tambun Selatan, Bekasi, Jawa Barat
+GPD CIKANDE : Jl. Raya Perumahan Cikande Permai Blok E No 4 & 5 Cikande Serang Banten
+GPD GANDUL : Jl. Raya Gandul No.12A Kelurahan Gandul, Kec Cinere, Kab Depok, Jawa Barat
+GPD BANTARGERBANG :  Jl. Raya H.djole Bantar gebang, Kel. Bantar gebang, Bekasi, Jawa barat
+GPD CITAYAM : Jl. Raya Citayam Ratujaya Ruko No.2, Kel. Ratujaya, Kec. Cipayung, Depok, Jawa barat
+GPD JATIMULYA : Jl. Raya Pengasinan kavling no 5 , Kel.pengasinan, Kec.rawalumbu, bekasi, jawa barat
+GPD MEGA REGENCY : Perum Mega Regency Blok D3 No 3A dan 3B, Jln Cipahelar, Sukaragam, Bekasi, Jawa Barat
+GPD SAWANGAN : Jl. Raya sawangan no.24, Kel. Mampang, Pancoran mas, depok
+GPD SEPATAN : Jl.Raya Mauk Km. 011 No. 45 RT/RW 02/02, Sepatan, Tangerang, Banten
+GPD SETIABUDI : Jl. Raya Setiabudi, Ruko Kebon Kopi No.37 karang Asih, Cikarang Utara , Bekasi
+GPD CIAMPEA : Jl. Raya Cibanteng No.155, Ciampea, Bogor, Jawa barat
+GPD CIBUNGBULANG : Jl. Raya Cibungbulang No.023, Bogor, Jawa barat
+GPD CIKARANG BARU : Ruko Grand Pasadena Jl.Tarum Barat II Blok.Q No.26, Cikarang Pusat, Bekasi
+GPD CILEGON INDAH : Jl. Raya Cilegon Indah Blok.E22 No.032, Cibeber, Banten
+GPD LEUWILIANG : Jl. Raya Leuwimekar, Leuwiliang, Bogor, Jawa barat
+
+
+
+
+
+LUAR JABODETABEK
+GPD UBUNG : Jl. Cokroaminoto No.324, Desa Ubung Kaja, Kecamatan Denpasar Utara, Kota Denpasar, Provinsi Bali
+GPD DALUNG : Jl. Raya Dalung No. 168 Br Kaja, Desa Dalung, Kec Kuta Utara, Provinsi Bali
+GPD SESETAN : Jl. Sesetan No. 144, Desa Sesetan, Kecamatan Denpasar Selatan, Provinsi Bali
+GPD BUANA RAYA : Jl. Buana Raya No 45 D Lingkungan Merta Buana Padang Sambian, Denpasar Barat, Provinsi Bali
+GPD MONANG - MANING : Jl. Gunung  Rinjani No.48 Monang - Maning Denpasar, Provinsi Bali
+GPD ABIAN SEMAL (1) : Jl. Pendet No. 5 Abian Semal Badung, Provinsi Bali
+GPD ABIAN SEMAL (2) : Jl. Raya Sibang Gede No. 16 Abian Semal, Banjar Badung, Provinsi Bali
+GPD SINGARAJA (1) : Jl. A. Yani 65 C Singaraja, Provinsi Bali
+GPD SINGARAJA (2) : Jl. WR Supratman No 104 Singaraja Buleleng, Provinsi Bali
+GPD NANGKA UTARA : Jl. Nangka Utara No. 253 Denpasar Utara, Provinsi Bali
+GPD KARANGASEM : Jl. Jendral Sudirman No.112 Subagan, Karangasem, Provinsi Bali
+GPD A. YANI : Jl. A. Yani NO 509 Banjar Denyeh, Denpasar Utara, Provinsi Bali
+GPD TABANAN : Jl. Pulau Menjangan Ruko No. 52 Tabanan, Provinsi Bali
+GPD TUKAD BILOK : Jl. Tukad Bilok No. 81 Renon, Denpasar, Provinsi Bali
+GPD PEMOGAN : Jl. Gelogor Carik No 777 Pemogan,Denpasar Selatan, Provinsi Bali
+GPD WR.SUPRATMAN : Jl. Wr.supratman No.56 denpasar timur bali
+GPD RAYA CANGGU : Jl. Raya canggu - badung bali
+GPD RAYA SUMBER SARI JEMBER : Jl. Jawa No.11 n Kel.sumber sari,kec.sumber sari jember
+GPD RAYA SOPUTAN : Jl. Gunung soputan No.175. Kel padangsambian kelod, Kec.denpasar barat bali
+GPD RAYA JAJAG BANYUWANGI : Jl. Yos sudarso,No.53 jajag, banyuwangi, jatim
+GPD RAYA GENTENG BANYUWANGI : Jl. Gajah mada No.120, genteng kulon, genteng banyuwangi
+GPD RAYA AMBULU : Jl. Raya Manggar, Ambulu, Jember

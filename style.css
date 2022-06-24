@@ -49,9 +49,10 @@ body {
     width: 50px;
 }
 
-.socmed{
-    text-align: center;
-    margin-top: 10px;
+.socmed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container .socmed img {

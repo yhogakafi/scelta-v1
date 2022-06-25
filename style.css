@@ -128,3 +128,9 @@ a {
 span {
     color: yellow;
 }
+
+.headof {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -125,12 +125,17 @@ a {
     text-decoration: none;
 }
 
-span {
+.offcontainer span {
     color: yellow;
+    font-weight: bold;
 }
 
 .headof {
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.offcontainer li {
+    font-family: Arial, Helvetica, sans-serif;
 }

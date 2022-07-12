@@ -1,141 +1,142 @@
 body {
-    background-color: black;
+  background-color: black;
 }
 
 .container {
-    margin-top: 50px;
-    padding: 20px;
+  margin-top: 50px;
+  padding: 20px;
 }
 
-.header{
-    width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+.header {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .marketplace {
-    width: 150px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
 }
 
 .container .marketplace img {
-    opacity: 1;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+  opacity: 1;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .container .marketplace img:hover {
-    opacity: .5;
+  opacity: 0.5;
 }
 
 .offline {
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .footer {
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
+  width: 200px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .socmed img {
-    margin: 5px;
-    width: 50px;
+  margin: 5px;
+  width: 50px;
 }
 
 .socmed {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container .socmed img {
-    opacity: 1;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+  opacity: 1;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .container .socmed img:hover {
-    opacity: .5;
+  opacity: 0.5;
 }
 
 .container .socmed a {
-    text-decoration: none;
-    outline: none;
-    border: 0px none transparent;
+  text-decoration: none;
+  outline: none;
+  border: 0px none transparent;
 }
 
 h1 {
-    color: yellow;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 h2 {
-    color: black;
-    background-color: yellow;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+  color: black;
+  background-color: yellow;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
 }
 
 #mallstore {
-    text-align: center;
+  text-align: center;
 }
 
 ol {
-    color: white;
-    text-align: left;
-    display: inline-block;
+  color: white;
+  text-align: left;
+  display: inline-block;
 }
 
 ol li {
-    margin: 5px;
+  margin: 5px;
 }
 
 #mallbazaar {
-    text-align: center;
+  text-align: center;
 }
 
 #mallbazaar ul li {
-    margin: 5px;
+  margin: 5px;
 }
 
 #jab {
-    text-align: center;
+  text-align: center;
 }
 
 #njab {
-    text-align: center;
+  text-align: center;
 }
 
 #onlinestore {
-    text-align: center;
-    background-color: yellow;
-    background-size:contain ;
+  text-align: center;
+  background-color: yellow;
+  background-size: contain;
 }
 
 a {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
 .offcontainer span {
-    color: yellow;
-    font-weight: bold;
+  color: yellow;
+  font-weight: bold;
 }
 
 .headof {
-    width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .offcontainer li {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
